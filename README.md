@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project visualizes the historical stock performance of Apple Inc. from 1997 to 2024, highlighting key events that influenced its market trajectory. Using Tableau for data visualization and Python for data scraping, the project aims to provide insights into how pivotal moments in Apple's history correlate with stock price fluctuations and trading volumes (Make sure to Read PDF file for detaild info).
+This project visualizes the historical stock performance of Apple Inc. from 1997 to 2024, highlighting key events that influenced its market trajectory. Using Tableau for data visualization and Python for data scraping, the project aims to provide insights into how pivotal moments in Apple's history correlate with stock price fluctuations and trading volumes (Make sure to Read PDF file for detailed info).
 
 ## Key Features
 
