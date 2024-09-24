@@ -36,3 +36,5 @@ This project visualizes the historical stock performance of Apple Inc. from 1997
    ```bash
    git clone https://github.com/ykasm/apple-stock-analysis.git
 ****
+### Download the Dataset
+https://www.kaggle.com/datasets/asmonline/apple-stock-history-1990-2024/data
